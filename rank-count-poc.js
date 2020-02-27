@@ -7,6 +7,7 @@
 
 var fs = require("fs");
  const puppeteer = require('puppeteer');
+ const GSR = require('google-search-results-nodejs')
  console.log("\n *Rankings v2.0 proof of concept* \n");
  console.log(":::::::..    :::.   :::.    :::. :::  .   ::::::.    :::.  .,-:::::/ .::::::.     :::      .::..:::.             ");  
  console.log(";;;;``;;;;   ;;`;;  `;;;;,  `;;; ;;; .;;,.;;;`;;;;,  `;;;,;;-'````';;`    `     ';;,   ,;;;',;'``;.      ,;;,  ");   
@@ -24,17 +25,30 @@ var fs = require("fs");
 
 // Get content from file
  var contents = fs.readFileSync("car-insurance-serp.json");
-// var htmlSerp = fs.readFileSync("car-insurance-serp.html");
+// var htmlSerp = fs.readFileSync("car-insurance-serp.html")
 
 // Define to JSON type
  var serp = JSON.parse(contents);
  //console.log(serp);
 
+ //results.offset = offset;
+ console.log(results);
+
  var results = computeRankings(serp,"nerdwallet.com");
  var offset = getResultOffset(results.href,results.url);
 
+ console.log(results);
+
+
+ contents = fs.readFileSync("mortgage-serp.json");
+ serp = JSON.parse(contents);
+
+ results = computeRankings(serp,"nerdwallet.com");
+ offset = getResultOffset(results.href,results.url);
+
 results.offset =offset;
 console.log(results);
+
 //console.log(offset);
 
 // cheating due to race condition
@@ -161,3 +175,27 @@ function getResultOffset(href,url)
     
 
   }
+
+// if you want to ping SERPApi in real time use this function
+// this is unfinished
+function realTimeSerp(keyword,domain,location="United States",language="en",country="us", googleVersion="google.com")
+{
+    // insert your API key here
+    let client = new GSR.GoogleSearchResults("secret_api_key")
+
+    var parameter = {
+        q: keyword,
+        location: location,
+        hl: language,
+        gl: country,
+        google_domain: googleVersion,
+    };
+    
+    var callback = function(data) {
+      // manage the data from the callback
+        console.log(data)
+    }
+    
+    // Show result as JSON
+    client.json(parameter, callback)
+}
