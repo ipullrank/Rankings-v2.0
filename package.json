@@ -1,0 +1,23 @@
+{
+  "name": "rankings-v2.0",
+  "version": "1.0.0",
+  "description": "Simple Proof of Concept for how Organic Search Rankings can be counted",
+  "main": "rank-count-poc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipullrank/Rankings-v2.0.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ipullrank/Rankings-v2.0/issues"
+  },
+  "homepage": "https://github.com/ipullrank/Rankings-v2.0#readme",
+  "dependencies": {
+    "google-search-results-nodejs": "^1.3.0",
+    "puppeteer": "^2.1.1"
+  }
+}
