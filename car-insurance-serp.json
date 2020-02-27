@@ -1,0 +1,464 @@
+{
+  "search_metadata": {
+    "id": "5e56ce0df1c4a55cba7a336f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/291936a1efc3ae55/5e56ce0df1c4a55cba7a336f.json",
+    "created_at": "2020-02-26 19:59:09 UTC",
+    "processed_at": "2020-02-26 19:59:09 UTC",
+    "google_url": "https://www.google.com/search?q=car+insurance&oq=car+insurance&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/291936a1efc3ae55/5e56ce0df1c4a55cba7a336f.html",
+    "total_time_taken": 3.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "car insurance",
+    "location_requested": "United States",
+    "location_used": "United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "car insurance"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "10 Car Insurance Quotes Online | Cheapest Rates from $19‎",
+      "link": "https://supercheapinsurance.com/",
+      "displayed_link": "www.supercheapinsurance.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGq__MgPDnAhW_GK0GHfDuBUMYABACGgJwdg&sig=AOD64_3moENSLVNSYSCx9HFqoiiRfy2xgQ&q=&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ0Qx6BAgQEAE&adurl=",
+      "description": "Compare and Save $500 a year on Car Insurance. Find out how much you could save.",
+      "sitelinks": [
+        {
+          "title": "Homeowner Discount",
+          "link": "https://supercheapinsurance.com/auto_discount_homeowner?v=google&c=C14729"
+        },
+        {
+          "title": "2 Minute Quote",
+          "link": "https://supercheapinsurance.com/auto_2_minute_quote?v=google&c=C14729"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Progressive Car Insurance | #1 Rated Website for 11 Years‎",
+      "link": "http://www.progressive.com/lp/auto-compare",
+      "displayed_link": "www.progressive.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGq__MgPDnAhW_GK0GHfDuBUMYABABGgJwdg&sig=AOD64_2Eyo8T_vLFXGqkhw8zZL7NCymq-w&q=&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ0Qx6BAgZEAE&adurl=",
+      "description": "Shop Our Official Site To Compare Auto Insurance Rates Today! Bundle Home & Auto."
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "State Farm® Car Quotes | Fast Free Quotes Available‎",
+      "link": "https://www.statefarm.com/cro/quote-start-dss",
+      "displayed_link": "www.statefarm.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGq__MgPDnAhW_GK0GHfDuBUMYABAAGgJwdg&sig=AOD64_18KT_WfQl5patH1JABPL47J8ZGow&q=&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ0Qx6BAgXEAE&adurl=",
+      "description": "Fast Free Quotes Are Available Online! Get Car Insurance From State Farm®. 24/7 service."
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "Top 10 Car Insurance Rates | Cheapest Rates in America‎",
+      "link": "https://ratekick.com/router/?v=google&c=C14720",
+      "displayed_link": "www.ratekick.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGq__MgPDnAhW_GK0GHfDuBUMYABADGgJwdg&sig=AOD64_0970_DC4s5WFG0Z87fdKWJuoi4Sw&q=&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ0Qx6BAgWEAE&adurl=",
+      "description": "Find your cheapest car insurance rates. Save $540/year when you compare. Fast & Free."
+    },
+    {
+      "position": 5,
+      "block_position": "bottom",
+      "title": "$19 Auto Insurance Quotes | Compare Quotes Online & Save‎",
+      "link": "http://www.compareonlinequotes.com/welcome?tap891=673136582&tap737=35910427378&tap097=15768680&tap056=&tap433=&tap004=&tap867=&tap711=none&tap927=gs&tap443=7&tap387=&tap011=g&tap021=c&tap032=&tap041=d&tap051=&tap064=&tap071=&tap061=&tap062=&tap092=1&tap114=1",
+      "displayed_link": "www.compareonlinequotes.com/free-quotes",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGq__MgPDnAhW_GK0GHfDuBUMYABAFGgJwdg&sig=AOD64_1syHC0Vmy_NrsNlznvsP40NQDdcA&q=&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ0Qx6BAgTEAE&adurl=",
+      "description": "Cheap Auto Insurance from $19/Month Get Online Quotes & Save up to 75%! Find Online Special Rates. Get Your Quote & Save Big. Get Your Savings Today. Insurance coverage: Auto, Home, Comparisons, Liability, SR-22, Comprehensive, Collision.",
+      "sitelinks": [
+        {
+          "title": "Find Current Discounts",
+          "link": "http://www.compareonlinequotes.com/find-current-discounts?%7Bcopy:tap891%7D&%7Bcopy:tap737%7D&%7Bcopy:tap097%7D&%7Bcopy:tap004%7D&%7Bcopy:tap867%7D&%7Bcopy:tap711%7D&%7Bcopy:tap927%7D&%7Bcopy:tap443%7D&%7Bcopy:tap387%7D&%7Bcopy:tap011%7D&%7Bcopy:tap021%7D&%7Bcopy:tap032%7D&%7Bcopy:tap041%7D&%7Bcopy:tap051%7D&%7Bcopy:tap064%7D&%7Bcopy:tap071%7D&%7Bcopy:tap092%7D&%7Bcopy:tap114%7D"
+        },
+        {
+          "title": "$19 Car Insurance",
+          "link": "http://www.compareonlinequotes.com/19-car-insurance?%7Bcopy:tap891%7D&%7Bcopy:tap737%7D&%7Bcopy:tap097%7D&%7Bcopy:tap004%7D&%7Bcopy:tap867%7D&%7Bcopy:tap711%7D&%7Bcopy:tap927%7D&%7Bcopy:tap443%7D&%7Bcopy:tap387%7D&%7Bcopy:tap011%7D&%7Bcopy:tap021%7D&%7Bcopy:tap032%7D&%7Bcopy:tap041%7D&%7Bcopy:tap051%7D&%7Bcopy:tap064%7D&%7Bcopy:tap071%7D&%7Bcopy:tap092%7D&%7Bcopy:tap114%7D"
+        },
+        {
+          "title": "Start Saving Now",
+          "link": "http://www.compareonlinequotes.com/start-saving-now?%7Bcopy:tap891%7D&%7Bcopy:tap737%7D&%7Bcopy:tap097%7D&%7Bcopy:tap004%7D&%7Bcopy:tap867%7D&%7Bcopy:tap711%7D&%7Bcopy:tap927%7D&%7Bcopy:tap443%7D&%7Bcopy:tap387%7D&%7Bcopy:tap011%7D&%7Bcopy:tap021%7D&%7Bcopy:tap032%7D&%7Bcopy:tap041%7D&%7Bcopy:tap051%7D&%7Bcopy:tap064%7D&%7Bcopy:tap071%7D&%7Bcopy:tap092%7D&%7Bcopy:tap114%7D"
+        },
+        {
+          "title": "Compare Rates Online",
+          "link": "http://www.compareonlinequotes.com/compare-rates-online?%7Bcopy:tap891%7D&%7Bcopy:tap737%7D&%7Bcopy:tap097%7D&%7Bcopy:tap004%7D&%7Bcopy:tap867%7D&%7Bcopy:tap711%7D&%7Bcopy:tap927%7D&%7Bcopy:tap443%7D&%7Bcopy:tap387%7D&%7Bcopy:tap011%7D&%7Bcopy:tap021%7D&%7Bcopy:tap032%7D&%7Bcopy:tap041%7D&%7Bcopy:tap051%7D&%7Bcopy:tap064%7D&%7Bcopy:tap071%7D&%7Bcopy:tap092%7D&%7Bcopy:tap114%7D"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "block_position": "bottom",
+      "title": "Amica® Car Insurance | Get a Free Online Quote‎",
+      "link": "https://auto.amicacoverage.com/?quoteonly",
+      "displayed_link": "auto.amicacoverage.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGq__MgPDnAhW_GK0GHfDuBUMYABAKGgJwdg&sig=AOD64_2L8D0zGWXReGc-JEv01wXnEswBWA&q=&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ0Qx6BAgSEAE&adurl=",
+      "description": "Get the Best Possible Value With Our Wide Range of Discounts. Call Today. Award-winning Service, Multiple Discounts, & Easy to Switch! Get a Quote 24/7. Quotes Available 24/7. Authentic Amica® Prices. A+ Superior Rated AM Best. Insurance coverage: Auto, Home, Life.",
+      "sitelinks": [
+        {
+          "title": "Get a Free Quote",
+          "link": "https://amica.amicacoverage.com/freequote?ahphd=8448197176&ahphm=8442068368"
+        },
+        {
+          "title": "Bundle and Save",
+          "link": "https://amica.amicacoverage.com/save?ahphd=8448197176&ahphm=8442068368"
+        },
+        {
+          "title": "100+ Years of Service",
+          "link": "https://amica.amicacoverage.com/100years?ahphd=8448197176&ahphm=8442068368"
+        },
+        {
+          "title": "A+ Financial Strength",
+          "link": "https://amica.amicacoverage.com/financialstrength?ahphd=8448197176&ahphm=8442068368"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "block_position": "bottom",
+      "title": "Automotive Insurance Quotes | Auto Insurance Quote from $29‎",
+      "link": "https://insurancewins.com/auto-insurance-quote/",
+      "displayed_link": "www.insurancewins.com/Automotive/Insurance-Quote",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjGq__MgPDnAhW_GK0GHfDuBUMYABAGGgJwdg&sig=AOD64_3gj2lnXYtl4UH24h8L92_WwlS3lA&q=&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ0Qx6BAgREAE&adurl=",
+      "description": "Save up to 78% on Automotive Insurance Quotes. Bundle & Save with rates from $29.08! Fast & Free Online Auto Insurance Quotes. Compare Auto Insurance Quotes. Massive Discounts. Carriers you can trust. Quick, Free Auto Quotes. Free Car Insurance Quotes.",
+      "sitelinks": [
+        {
+          "title": "Multi-Car & Home Discount",
+          "link": "https://insurancewins.com/multi_car_and_home_discount"
+        },
+        {
+          "title": "Compare & Save Big",
+          "link": "https://insurancewins.com/compare_and_save_big"
+        },
+        {
+          "title": "2 minute fast quote",
+          "link": "https://insurancewins.com/2_minute_fast_quote"
+        },
+        {
+          "title": "Save up to $674",
+          "link": "https://insurancewins.com/sl-landing-page-save-up-to-674"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?gl=us&hl=en&q=car+insurance&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36984477,-95779875,30006&tbm=lcl&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.984477,
+      "longitude": -95.779875,
+      "altitude": 30006
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?gl=us&hl=en&q=car+insurance&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36984477,-95779875,30006&tbm=lcl&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQjGp6BAgLED4",
+    "places": [
+      {
+        "position": 1,
+        "title": "Shelter Insurance - Heather Hodges",
+        "place_id": "8001094904071375377",
+        "lsig": "AB86z5W8yJoV-GOlLYk_68BXdqda",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&lsig=AB86z5W8yJoV-GOlLYk_68BXdqda&ludocid=8001094904071375377&q=car+insurance&tbm=lcl",
+        "rating": 4.3,
+        "reviews": 8,
+        "type": "Auto insurance agency",
+        "address": "Coffeyville, KS",
+        "hours": "Open ⋅ Closes 5PM",
+        "website": "https://www.shelterinsurance.com/CA/agent/HHODGES",
+        "gps_coordinates": {
+          "latitude": 37.033170600000005,
+          "longitude": -95.6253624
+        }
+      },
+      {
+        "position": 2,
+        "title": "Cole Thornton Agency, Inc. American Family Insurance",
+        "place_id": "18405859657675120283",
+        "lsig": "AB86z5Us6ozO3ZIjGZ_tP7veYiuM",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&lsig=AB86z5Us6ozO3ZIjGZ_tP7veYiuM&ludocid=18405859657675120283&q=car+insurance&tbm=lcl",
+        "rating": 4.3,
+        "reviews": 15,
+        "type": "Auto insurance agency",
+        "address": "Independence, KS",
+        "hours": "Open ⋅ Closes 5PM",
+        "website": "https://agent.amfam.com/Cole-Thornton/",
+        "gps_coordinates": {
+          "latitude": 37.2246482,
+          "longitude": -95.70740269999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Shelter Insurance",
+        "place_id": "16552392010419723860",
+        "lsig": "AB86z5UIh22BkJS9-CYXNs05gHYA",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&lsig=AB86z5UIh22BkJS9-CYXNs05gHYA&ludocid=16552392010419723860&q=car+insurance&tbm=lcl",
+        "rating": 0.0,
+        "type": "Auto insurance agency",
+        "address": "Bartlesville, OK",
+        "hours": "Open ⋅ Closes 4:30PM",
+        "website": "https://www.shelterinsurance.com/CA/agent/LETTSIEASKEW",
+        "gps_coordinates": {
+          "latitude": 36.7443064,
+          "longitude": -95.9343892
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "more_related_searches_link": null
+  },
+  "top_stories": [
+    {
+      "title": "Why You May Be Paying Too Much for Your Car Insurance",
+      "link": "https://www.consumerreports.org/car-insurance/why-you-may-be-paying-too-much-for-your-car-insurance/",
+      "source": "Consumer Reports",
+      "date": "1 day ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvV6fWkrcj1gMfOKfUZDjByva83U4saMWWiR72EyhuXIgrwdOt8WiwXDL_kAee8RyfFz3Lw&usqp=CAI&s"
+    },
+    {
+      "title": "One Man's Quest for a Fair Price on Car Insurance",
+      "link": "https://www.consumerreports.org/car-insurance/one-mans-quest-for-a-fair-price-on-car-insurance/",
+      "source": "Consumer Reports",
+      "date": "1 day ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmAPHAhQtmqpaSM4Wb9bEJjd3OQoMjYyXpsSRk7TIIlGy3G6PjABoIlhVgzdA0GY6QO0Kwg&usqp=CAI&s"
+    },
+    {
+      "title": "How auto insurers use your nondriving habits to raise prices",
+      "link": "https://www.seattletimes.com/business/how-auto-insurers-use-your-nondriving-habits-to-raise-prices/",
+      "source": "The Seattle Times",
+      "date": "3 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7_BOq1Jpm9iwOEb9MVEMcKVo0UUoE5Fng7Tn6oJ8Ch-WVN9S7JbL7k-n4IEXzDnBIZ13vQ&usqp=CAI&s"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?gl=us&hl=en&q=car+insurance&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQt8YBKAF6BAgEEA4",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&tbm=nws",
+  "related_questions": [
+    {
+      "question": "Who has the cheapest car insurance?",
+      "snippet": "Cheapest Car Insurance CompaniesUSAA is the cheapest car insurance company on our list, with a study rate of $895. ... Geico is the second-cheapest auto insurance company based on a study rate of $1,063. ... Travelers comes in third in our ranking of the cheapest car insurance companies, with a representative rate of $1,212.More items...•Aug 20, 2019",
+      "title": "Cheapest Car Insurance Companies | U.S. News & World Report",
+      "link": "https://cars.usnews.com/cars-trucks/car-insurance/cheapest-car-insurance-companies",
+      "displayed_link": "cars.usnews.com › cars-trucks › cheapest-car-insurance-companies"
+    },
+    {
+      "question": "What is the cheapest car insurance full coverage?",
+      "snippet": "Nationwide, here are average annual prices for full coverage policies from the seven largest car insurance companies.Geico: $1,198.State Farm: $1,511.Progressive: $1,766.Liberty Mutual: $1,778.Allstate: $1,834.Farmers: $1,865.USAA*: $1,023.Jan 21, 2020",
+      "title": "Finding Cheap Full Coverage Car Insurance - NerdWallet",
+      "link": "https://www.nerdwallet.com/blog/insurance/car-insurance-basics/cheap-full-coverage-insurance/",
+      "displayed_link": "www.nerdwallet.com › blog › insurance › cheap-full-coverage-insurance"
+    },
+    {
+      "question": "How can I get a free car insurance quote?",
+      "snippet": "Get a FREE Auto Insurance Quote Now. Give us two minutes and we'll give you an auto insurance quote. It's that easy. Then, if you like our rates (and we're pretty sure you will), simply purchase your policy online and we'll provide you with immediate proof of insurance.",
+      "title": "Car Insurance Quote | The General Car Insurance",
+      "link": "https://www.thegeneral.com/quote/",
+      "displayed_link": "www.thegeneral.com › quote"
+    },
+    {
+      "question": "What is a fair price for car insurance?",
+      "snippet": "In the U.S., the average cost of car insurance is $1,457 per year. That's $704 per six-month policy or about $121 per month. However, there are a lot of variables that determine your car insurance rates.",
+      "title": "What is the Average Cost of Car Insurance? | The Simple Dollar",
+      "link": "https://www.thesimpledollar.com/insurance/auto/how-much-does-car-insurance-cost/",
+      "displayed_link": "www.thesimpledollar.com › auto › how-much-does-car-insurance-cost"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Car Insurance - Save on auto coverage | Liberty Mutual",
+      "link": "https://www.libertymutual.com/auto",
+      "displayed_link": "www.libertymutual.com › auto",
+      "snippet": "Car insurance coverage you can count on, affordable rates, and responsive customer service. Find out why customers have been trusting us since 1912. Get a ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yUai_Db1fzoJ:https://www.libertymutual.com/auto+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.libertymutual.com/auto+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzALegQIARAH"
+    },
+    {
+      "position": 2,
+      "title": "Car Insurance | Get An Auto Insurance Quote | Allstate",
+      "link": "https://www.allstate.com/auto-insurance.aspx",
+      "displayed_link": "www.allstate.com › auto-insurance",
+      "snippet": "Car insurance quotes from Allstate are just a few clicks away. Find auto insurance coverage options, discounts, and more.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Car Insurance Frequently ...",
+            "link": "https://www.allstate.com/tr/car-insurance/car-insurance-faq.aspx"
+          },
+          {
+            "title": "Auto Insurance Policy ...",
+            "link": "https://www.allstate.com/auto-insurance/car-policy-declarations.aspx"
+          },
+          {
+            "title": "Car Payment Calculator",
+            "link": "https://www.allstate.com/tr/car-insurance/car-payment-calculator.aspx"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4u0BRaXeks4J:https://www.allstate.com/auto-insurance.aspx+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.allstate.com/auto-insurance.aspx+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzAMegQIAhAH"
+    },
+    {
+      "position": 3,
+      "title": "Car Insurance Quotes, Auto Insurance by Esurance",
+      "link": "https://www.esurance.com/insurance/car",
+      "displayed_link": "www.esurance.com › insurance › car",
+      "snippet": "Get your free car insurance quote today and see how much you could be saving with Esurance. Learn about our auto insurance discounts, customized ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2,
+            "reviews": 3693
+          },
+          "extensions": [
+            "Rating: 4.2",
+            "3,693 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6lT5alRnpWMJ:https://www.esurance.com/insurance/car+&cd=17&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.esurance.com/insurance/car+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzAQegQIBRAH"
+    },
+    {
+      "position": 4,
+      "title": "Car Insurance - Get A Free Auto Insurance Quote | GEICO",
+      "link": "https://www.geico.com/auto-insurance/",
+      "displayed_link": "www.geico.com › auto-insurance",
+      "snippet": "Get a car insurance quote - typically in 15 minutes or less. Switch to GEICO for an auto insurance policy from a brand you can trust, with service you can rely on.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 13371
+          },
+          "extensions": [
+            "Rating: 4.5",
+            "13,371 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:twuggLepzxsJ:https://www.geico.com/auto-insurance/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.geico.com/auto-insurance/+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzARegQIAxAH"
+    },
+    {
+      "position": 5,
+      "title": "Auto Insurance - Get a Free Car Insurance Quote – Nationwide",
+      "link": "https://www.nationwide.com/personal/insurance/auto/",
+      "displayed_link": "www.nationwide.com › personal › insurance › auto",
+      "snippet": "Protect yourself on the road with auto insurance from Nationwide. Find out about coverage options, discounts and get a free online car insurance quote.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pQlA5lqdVPAJ:https://www.nationwide.com/personal/insurance/auto/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Car Insurance - Get a Free Auto Insurance Quote : Farmers ...",
+      "link": "https://www.farmers.com/auto/",
+      "displayed_link": "www.farmers.com › auto",
+      "snippet": "Get a free car insurance quote online from Farmers Insurance. Pick the auto insurance coverage that's right for you and save money today.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q5V-rofklbwJ:https://www.farmers.com/auto/+&cd=20&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.farmers.com/auto/+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzATegQIBxAH"
+    },
+    {
+      "position": 7,
+      "title": "The Best Cheap Car Insurance for 2020 - NerdWallet",
+      "link": "https://www.nerdwallet.com/blog/insurance/best-cheap-car-insurance/",
+      "displayed_link": "www.nerdwallet.com › blog › insurance › best-cheap-car-insurance",
+      "snippet": "One of the best ways to get cheap car insurance is by comparing car insurance quotes — and the companies offering them. To get you started, NerdWallet ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VM-WXeRYEBUJ:https://www.nerdwallet.com/blog/insurance/best-cheap-car-insurance/+&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.nerdwallet.com/blog/insurance/best-cheap-car-insurance/+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzAUegQICBAH"
+    },
+    {
+      "position": 8,
+      "title": "Free Car Insurance Quote - Save on Auto Insurance - State ...",
+      "link": "https://www.statefarm.com/insurance/auto",
+      "displayed_link": "www.statefarm.com › Insurance › Auto",
+      "snippet": "Save with a fast-free auto insurance quote. Your State Farm auto insurance discounts are calculated automatically, so you can see how much you can save ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:17m1NxkCFeQJ:https://www.statefarm.com/insurance/auto+&cd=22&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.statefarm.com/insurance/auto+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzAVegQIChAJ"
+    },
+    {
+      "position": 9,
+      "title": "Car Insurance Quote | The General Car Insurance",
+      "link": "https://www.thegeneral.com/quote/",
+      "displayed_link": "www.thegeneral.com › quote",
+      "snippet": "Give us two minutes and we'll give you a free, no-commitment auto insurance quote. Purchase a policy online and we'll provide instant proof of insurance.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UVD5-ncSIkQJ:https://www.thegeneral.com/quote/+&cd=23&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.thegeneral.com/quote/+car+insurance&tbo=1&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQHzAWegQICRAH"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "car insurance prices",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=car+insurance+prices&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "list of car insurance companies",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=list+of+car+insurance+companies&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "cheap car insurance quotes",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=cheap+car+insurance+quotes&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "geico car insurance",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=geico+car+insurance&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "the general car insurance",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=the+general+car+insurance&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "state farm car insurance",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=state+farm+car+insurance&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "best car insurance",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=best+car+insurance&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "progressive car insurance",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=progressive+car+insurance&sa=X&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=10&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8NMDegQIDxBC",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=10&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxAw",
+      "3": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=20&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxAy",
+      "4": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=30&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxA0",
+      "5": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=40&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxA2",
+      "6": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=50&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxA4",
+      "7": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=60&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxA6",
+      "8": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=70&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxA8",
+      "9": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=80&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxA-",
+      "10": "https://www.google.com/search?q=car+insurance&gl=us&hl=en&ei=Dc5WXve6IMSw0PEPvdeigAg&start=90&sa=N&ved=2ahUKEwi39ffMgPDnAhVEGDQIHb2rCIAQ8tMDegQIDxBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=car+insurance&start=90"
+    }
+  }
+}
