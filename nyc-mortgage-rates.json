@@ -1,0 +1,297 @@
+{
+  "search_metadata": {
+    "id": "5e589987f90d230196684ae7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8767ad9f66b3bcc3/5e589987f90d230196684ae7.json",
+    "created_at": "2020-02-28 04:39:35 UTC",
+    "processed_at": "2020-02-28 04:39:35 UTC",
+    "google_url": "https://www.google.com/search?q=nyc+mortgage+rates&oq=nyc+mortgage+rates&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8767ad9f66b3bcc3/5e589987f90d230196684ae7.html",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "nyc mortgage rates",
+    "location_requested": "United States",
+    "location_used": "United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 20100000,
+    "time_taken_displayed": 0.49,
+    "query_displayed": "nyc mortgage rates"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "What Are Today's Rates? | See Today's Mortgage Rates‎",
+      "link": "https://www.quickenloans.com/l/progpi?qls=GAW_R1REFIRb.0000720498",
+      "displayed_link": "www.quickenloans.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWjLXltvPnAhUKnp8KHXUxBHAYABACGgJxYg&sig=AOD64_38kvyuyYHuoVj7JFQhaDQPVp8D-Q&q=&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ0Qx6BAgOEAE&adurl=",
+      "description": "Take Advantage Of These Low Rates Today! Verified Approval. Skip the Bank. Compare Loans. Start Your Mortgage. RateShield™ Approval. Strength Of A Cash Buyer. Get Approved Today. Great Incentives. Lock Your Rate. Calculate Payments. Types: FHA Loans, VA Loans.",
+      "sitelinks": [
+        {
+          "title": "Refinance Your Home Loan",
+          "link": "https://www.quickenloans.com/l/progpi?qls=%7Bifnotmobile:GAW_SLREFIHL.rates0000e%7D%7Bifmobile:GMO_SLREFIHL.rates0000e%7D"
+        },
+        {
+          "title": "Buying a New Home?",
+          "link": "https://www.quickenloans.com/l/progpi?qls=%7Bifnotmobile:GAW_SLBUYNEW.rates0000e%7D%7Bifmobile:GMO_SLBUYNEW.rates0000e%7D"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Updated Rates For Feb 27, 2020 | 10 Best Mortgage Rates 2020‎",
+      "link": "https://www.consumersadvocate.org/mortgage-rates/a/best-mortgage-rates",
+      "displayed_link": "www.consumersadvocate.org/MortgageRates/Comparison",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWjLXltvPnAhUKnp8KHXUxBHAYABAAGgJxYg&sig=AOD64_0DKcabarhUiYBHAmY-btXh6N11dQ&q=&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ0Qx6BAgQEAE&adurl=",
+      "description": "Compare Today's 10 Best Mortgage Lenders Online. Reviews Trusted by More Than 45,000,000. Fixed Rate or ARM. Shop Best Rates. FED Rates May Benefit You. Traditional or Jumbo. FED Just Adjusted Rates. Find Your Rate. 2020's 10 Best. Trusted by 45,000,000+."
+    },
+    {
+      "position": 3,
+      "block_position": "bottom",
+      "title": "2.75% FIXED Mortgage Rate | View Rates for New York‎",
+      "link": "https://www.lendgo.com/la/?tg_ref=8624117187&camp_id=86423579269&keyword=today's%20mortgage%20rates&sub2=420436857355&rate=2.75&apr=2.99&rt=f<=15&csg_ref=rb&gcampid=8624117187",
+      "displayed_link": "www.lendgo.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWjLXltvPnAhUKnp8KHXUxBHAYABABGgJxYg&sig=AOD64_2h93Ghviau5oefgpx8AKwOQc60Hg&q=&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ0Qx6BAgPEAE&adurl=",
+      "description": "Compare 2019 top lenders to get matched with lenders curated for your needs in 2 minutes. A+ Rating with BBB. Over 15 million customers served since 2005. Rates Updated Daily. Reduce Payments By 20% Refi in 30 Days or less. Zero Obligations.",
+      "sitelinks": [
+        {
+          "title": "Save Over $4,200 Per Year",
+          "link": "https://www.lendgo.com/pa/?tg_ref=%7Bcampaignid%7D&camp_id=%7Badgroupid%7D&keyword=%7Bkeyword%7D&sub2=si_cu_%7Bcreative%7D&rate=2.8&apr=3.0&rt=f<=15&csg_ref=rb&gcampid=%7Bcampaignid%7D"
+        },
+        {
+          "title": "Cash Out Refinance",
+          "link": "https://www.lendgo.com/la/?tg_ref=%7Bcampaignid%7D&camp_id=%7Badgroupid%7D&keyword=%7Bkeyword%7D&sub2=si_co%7Bcreative%7D&rate=2.8&apr=3.0&rt=f<=15&csg_ref=rb&gcampid=%7Bcampaignid%7D"
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "more_related_searches_link": null,
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What are the mortgage rates today in New York?",
+      "snippet": "New York 30-year fixed mortgage rates go up to 4.09% The current average 30-year fixed mortgage rate in New York increased 5 basis points from 4.04% to 4.09%. New York mortgage rates today are 42 basis points higher than the national average rate of 3.67%.",
+      "title": "Mortgage Rates in New York - NY Home Loans | Zillow",
+      "link": "https://www.zillow.com/mortgage-rates/ny/",
+      "displayed_link": "www.zillow.com › mortgage-rates"
+    },
+    {
+      "question": "What are today's mortgage rates?",
+      "snippet": "Today's Mortgage and Refinance RatesProductInterest RateAPR30-Year Fixed Rate3.780%3.940%20-Year Fixed Rate3.540%3.750%15-Year Fixed Rate3.240%3.450%10/1 ARM Rate3.610%4.000%8 more rows",
+      "title": "Compare Current Mortgage Interest Rates | Bankrate",
+      "link": "https://www.bankrate.com/mortgage.aspx",
+      "displayed_link": "www.bankrate.com › mortgage"
+    },
+    {
+      "question": "Is 3.62 A good mortgage rate?",
+      "snippet": "Mortgage buyer Freddie Mac said Thursday the average rate on a 30-year, fixed-rate mortgage slipped to 3.62% from 3.65% last week. ... That was the lowest level for a 30-year fixed rate since early February of last year. The average rate on 15-year fixed-rate mortgages declined to 2.93% from 2.95% last week.Feb 25, 2016",
+      "title": "Average 30-year mortgage rate falls to 3.62% - USA Today",
+      "link": "https://www.usatoday.com/story/money/personalfinance/2016/02/25/mortgage-rates-buying-a-house/80930702/",
+      "displayed_link": "www.usatoday.com › 2016/02/25 › mortgage-rates-buying-a-house"
+    },
+    {
+      "question": "Are mortgage rates going down?",
+      "snippet": "If you're looking to buy a home or refinance your current one in the new year, there's good news: Today's low mortgage rates are expected to continue into 2020. The average 30-year fixed mortgage rate started 2019 at 4.68 percent and steadily declined before closing out the year at 3.93 percent.Jan 2, 2020",
+      "title": "Mortgage Rate Forecast For 2020 | Bankrate",
+      "link": "https://www.bankrate.com/mortgages/mortgage-rate-forecast/",
+      "displayed_link": "www.bankrate.com › mortgages › mortgage-rate-forecast"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Today's Mortgage Rates in New York | NY Home Loans ...",
+    "link": "https://www.bankrate.com/new-york/mortgage-rates.aspx",
+    "refinements": [
+      "Community bank",
+      "Community bank",
+      "Wells Fargo",
+      "Wells Fargo",
+      "Bank of america",
+      "Bank of america",
+      "Chase",
+      "Chase",
+      "TD Bank",
+      "TD Bank",
+      "Tfcu",
+      "Tfcu",
+      "Credit union",
+      "Credit union",
+      "Valley national bank",
+      "Valley national bank",
+      "Citibank",
+      "Citibank",
+      "First Republic Bank",
+      "First Republic Bank"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Today's Mortgage Rates in New York | NY Home Loans ...",
+      "link": "https://www.bankrate.com/new-york/mortgage-rates.aspx",
+      "displayed_link": "www.bankrate.com › new-york › mortgage-rates",
+      "snippet": ""
+    },
+    {
+      "position": 2,
+      "title": "Compare Today's Mortgage and Refinance Rates in New York ...",
+      "link": "https://www.nerdwallet.com/mortgages/mortgage-rates/new-york",
+      "displayed_link": "www.nerdwallet.com › mortgages › mortgage-rates › new-york",
+      "snippet": "Shopping for the lowest New York mortgage and refinance rates? Save money by comparing your free, customized New York mortgage and refinance rates from ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IbD8OjQOsrQJ:https://www.nerdwallet.com/mortgages/mortgage-rates/new-york+&cd=31&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Mortgage Rates in New York - NY Home Loans | Zillow",
+      "link": "https://www.zillow.com/mortgage-rates/ny/",
+      "displayed_link": "www.zillow.com › Mortgages › Mortgage Rates",
+      "snippet": "View and compare current mortgage rates in New York. Get free, secure, & anonymous NY home loan quotes from New York mortgage lenders.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jQc4tcXJ5icJ:https://www.zillow.com/mortgage-rates/ny/+&cd=32&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.zillow.com/mortgage-rates/ny/+nyc+mortgage+rates&tbo=1&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQHzAfegQIBBAJ"
+    },
+    {
+      "position": 4,
+      "title": "Compare Today's Mortgage Rates in New York - SmartAsset",
+      "link": "https://smartasset.com/mortgage/new-york-mortgage-rates",
+      "displayed_link": "smartasset.com › mortgage › new-york-mortgage-rates",
+      "snippet": "Use SmartAsset's mortgage rate comparison tool to compare mortgage rates ... The realty transfer in NYC is 1% to 2.625% based on a home value of plus or ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0K0Y-G1CQekJ:https://smartasset.com/mortgage/new-york-mortgage-rates+&cd=33&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://smartasset.com/mortgage/new-york-mortgage-rates+nyc+mortgage+rates&tbo=1&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQHzAgegQIARAH"
+    },
+    {
+      "position": 5,
+      "title": "StreetEasy: Mortgage Rates | StreetEasy",
+      "link": "https://streeteasy.com/nyc/mortgage_rates",
+      "displayed_link": "streeteasy.com › nyc › mortgage_rates",
+      "snippet": "Advertising Disclosure. Participating banks, lenders, financial institutions, originators, loan brokers, other mortgage professionals and their employees ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sZEe5YWtgn0J:https://streeteasy.com/nyc/mortgage_rates+&cd=34&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://streeteasy.com/nyc/mortgage_rates+nyc+mortgage+rates&tbo=1&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQHzAhegQIAxAH"
+    },
+    {
+      "position": 6,
+      "title": "New York Mortgage Interest Rates Today",
+      "link": "https://www.mlcalc.com/mortgage-rates/new-york/",
+      "displayed_link": "www.mlcalc.com › Mortgage Rates › New York",
+      "snippet": "View and compare сurrent (updated today) mortgage rates, home loan rates and other bank interest rates in New York (NY). E.g. 30 year fixed, 15 year fixed, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SQraYQxAPXoJ:https://www.mlcalc.com/mortgage-rates/new-york/+&cd=35&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.mlcalc.com/mortgage-rates/new-york/+nyc+mortgage+rates&tbo=1&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQHzAiegQIAhAJ"
+    },
+    {
+      "position": 7,
+      "title": "30-year Fixed Rate Mortgages - Compare NY Home Loans ...",
+      "link": "https://www.trulia.com/mortgage-rates/fixed/30-year/NY/",
+      "displayed_link": "www.trulia.com › mortgage-rates › fixed › 30-year",
+      "snippet": "It pays to shop around for mortgage rates in New York. Find a competitive rate for your home loan with free quotes for 30-year mortgage rates.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XmG4h8CZxOUJ:https://www.trulia.com/mortgage-rates/fixed/30-year/NY/+&cd=36&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Mortgage Rates in New York | U.S. Bank",
+      "link": "https://www.usbank.com/home-loans/mortgage/mortgage-rates/new-york.html",
+      "displayed_link": "www.usbank.com › home-loans › mortgage-rates › new-york",
+      "snippet": "Learn more about U.S. Bank's current mortgage rates in New York and see how residing in different states can impact your loan.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GVY9abKLU60J:https://www.usbank.com/home-loans/mortgage/mortgage-rates/new-york.html+&cd=37&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "New York Mortgage Rates - Mortgage News Daily",
+      "link": "http://www.mortgagenewsdaily.com/mortgage_rates/new-york.aspx",
+      "displayed_link": "www.mortgagenewsdaily.com › mortgage_rates › new-york",
+      "snippet": "Index, Value, MOM Change, YOY Change. Home Value Index, $263500, 0.07%, -2.53%. Median Value per sq. ft. ($), $137, 0.74%, 1.48%. Home For Sale ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:DfPqJyeOwKAJ:www.mortgagenewsdaily.com/mortgage_rates/new-york.aspx+&cd=38&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:www.mortgagenewsdaily.com/mortgage_rates/new-york.aspx+nyc+mortgage+rates&tbo=1&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQHzAlegQIBxAH"
+    },
+    {
+      "position": 10,
+      "title": "New York Mortgage Rates for February 2020 - ValuePenguin",
+      "link": "https://www.valuepenguin.com/mortgages/new-york-mortgage-rates",
+      "displayed_link": "www.valuepenguin.com › mortgages › new-york-mortgage-rates",
+      "date": "May 24, 2019",
+      "snippet": "We track mortgage rates in New York state from week to week so that you'll know what an affordable quote looks like. Find out the average rate ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z45q7tHeJJIJ:https://www.valuepenguin.com/mortgages/new-york-mortgage-rates+&cd=39&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "chase mortgage rates ny",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=chase+mortgage+rates+ny&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "best mortgage rates today ny",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=best+mortgage+rates+today+ny&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "current mortgage rates ny chase",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=current+mortgage+rates+ny+chase&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "current mortgage rates ny wells fargo",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=current+mortgage+rates+ny+wells+fargo&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "best mortgage rates long island",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=best+mortgage+rates+long+island&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "wells fargo mortgage rates",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=wells+fargo+mortgage+rates&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "coop mortgage rates",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=coop+mortgage+rates&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "current fha mortgage rates ny",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=current+fha+mortgage+rates+ny&sa=X&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=10&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8NMDegQIDRBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=10&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRAv",
+      "3": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=20&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRAx",
+      "4": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=30&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRAz",
+      "5": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=40&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRA1",
+      "6": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=50&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRA3",
+      "7": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=60&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRA5",
+      "8": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=70&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRA7",
+      "9": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=80&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRA9",
+      "10": "https://www.google.com/search?q=nyc+mortgage+rates&hl=en&gl=us&ei=h5lYXviFHrmtytMPjIKDwAU&start=90&sa=N&ved=2ahUKEwi45a7ltvPnAhW5lnIEHQzBAFgQ8tMDegQIDRA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location_requested=United+States&q=nyc+mortgage+rates&start=90"
+    }
+  }
+}

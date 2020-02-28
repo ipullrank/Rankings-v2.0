@@ -9,28 +9,23 @@ const fs = require("fs");
 const puppeteer = require('puppeteer');
 const GSR = require('google-search-results-nodejs')
 console.log("\n *Rankings v2.0 proof of concept* \n");
-console.log(":::::::..    :::.   :::.    :::. :::  .   ::::::.    :::.  .,-:::::/ .::::::.     :::      .::..:::.             ");
-console.log(";;;;``;;;;   ;;`;;  `;;;;,  `;;; ;;; .;;,.;;;`;;;;,  `;;;,;;-'````';;`    `     ';;,   ,;;;',;'``;.      ,;;,  ");
-console.log("[[[,/[[['  ,[[ '[[,  [[[[[. '[[ [[[[[/'  [[[  [[[[[. '[[[[[   [[[[[[/'[==/[[[[,     \[[  .[[/  ''  ,[['   ,['  [n ");
-console.log("$$$$$$c   c$$$cc$$$c $$$ \"Y$c$$_$$$$,    $$$  $$$ \"Y$c$$\"$$c.    \"$$   '''    $      Y$c.$$\"   .c$$P'     $$    $$");
-console.log("888b \"88bo,888   888,888    Y88\"888\"88o, 888  888    Y88 `Y8bo,,,o88o 88b    dP       Y88P    d88 _,oo,d8bY8,  ,8\"");
-console.log("MMMM   \"W\" YMM   \"\"` MMM     YM MMM \"MMP\"MMM  MMM     YM   `'YMUP\"YMM  \"YMmMY\"         MP     MMMUP*\"^^YMP \"YmmP  ");
 
-var organicRanking = 0;
-var baseRanking = 0;
-var absoluteRanking = 0;
-var featureRanking = 0;
-var page = 1;
-var offset = 0;
+console.log(":::::::::::::. ...    ::: :::      :::    :::::::..    :::.   :::.    :::. :::  .   ::::::.    :::.  .,-:::::/   .::::::. ");
+console.log(";;; `;;;```.;;;;;     ;;; ;;;      ;;;    ;;;;``;;;;   ;;`;;  `;;;;,  `;;; ;;; .;;,.;;;`;;;;,  `;;;,;;-'````'   ;;;`    ` ");
+console.log("[[[  `]]nnn]]'[['     [[[ [[[      [[[     [[[,/[[['  ,[[ '[[,  [[[[[. '[[ [[[[[/'  [[[  [[[[[. '[[[[[   [[[[[[/'[==/[[[[,");
+console.log("$$$   $$$\"\"   $$      $$$ $$'      $$'     $$$$$$c   c$$$cc$$$c $$$ \"Y$c$$_$$$$,    $$$  $$$ \"Y$c$$\"$$c.    \"$$   '''    $");
+console.log("888   888o    88    .d888o88oo,.__o88oo,.__888b \"88bo,888   888,888    Y88\"888\"88o, 888  888    Y88 `Y8bo,,,o88o 88b    dP");
+console.log("MMM   YMMMb    \"YmmMMMM\"\"\"\"\"\"YUMMM\"\"\"\"YUMMMMMMM   \"W\" YMM   \"\"` MMM     YM MMM \"MMP\"MMM  MMM     YM   `'YMUP\"YMM  \"YMmMY\"\n" );
+
 
 
 async function main(){
   try{
     /****** car-insurance-serp ********/
-    // Get content from file
+    // Open the Car Insurance SERP
     var contents = fs.readFileSync("car-insurance-serp.json");
 
-    // Define to JSON type
+    // Parse the JSON
     var serp = JSON.parse(contents);
 
     var results = computeRankings(serp, "nerdwallet.com");
@@ -41,16 +36,29 @@ async function main(){
 
 
     /****** mortgage-serp ********/
-    // Get content from file
+    // Open the Mortgage SERP
     contents = fs.readFileSync("mortgage-serp.json");
 
-    // Define to JSON type
+    // Parse the JSON
     serp = JSON.parse(contents);
 
     var results = computeRankings(serp, "nerdwallet.com");
     offset = await getResultOffset(results.href, results.url);
     results.offset = offset
     console.log('results', results)
+
+    /******  nyc-mortgage-rates-serp ********/
+    // Open the NYC Mortgage Rates SERP
+    contents = fs.readFileSync("nyc-mortgage-rates.json");
+
+    // Parse the JSON
+    serp = JSON.parse(contents);
+
+    var results = computeRankings(serp, "nerdwallet.com");
+    offset = await getResultOffset(results.href, results.url);
+    results.offset = offset
+    console.log('results', results)
+
 
     // exit program
     process.exit(0);
@@ -65,7 +73,14 @@ main();
 
 // calculate rankings
 function computeRankings(serp, domain) {
-
+  var organicRanking = 0;
+  var baseRanking = 0;
+  var absoluteRanking = 0;
+  var featureRanking = 0;
+  var page = 1;
+  var offset = 0;
+  var featuredSnippets = 0;
+  
   // Count the ads
   if (typeof(serp.ads) == 'object') {
     for (i = 0; i < serp.ads.length; i++) {
@@ -73,6 +88,13 @@ function computeRankings(serp, domain) {
         absoluteRanking++;
       }
     }
+  }
+
+  // count the featured snippet
+  if (typeof(serp.answer_box) == 'object')
+  {
+    featureRanking++;
+    featuredSnippets++;
   }
 
   // count the map
@@ -101,21 +123,21 @@ function computeRankings(serp, domain) {
 
   // count organic up until the result
   if (typeof(serp.organic_results) == 'object') {
+    console.log ("ORGANIC RANKINGS: \n");
     for (i = 0; i < serp.organic_results.length; i++) {
-      console.log(serp.organic_results[i].link);
+      console.log((i+1) + " - " + serp.organic_results[i].link);
       //console.log(serp.organic_results[i].link.indexOf(domain));
       absoluteRanking++;
       organicRanking++;
       featureRanking++;
 
       if (serp.organic_results[i].link.indexOf(domain) > 1) {
-
         return {
           "page": serp.serpapi_pagination.current,
           "absoluteRanking": absoluteRanking,
-          "organicRanking": organicRanking,
+          "webRanking":(organicRanking + featuredSnippets),
+          "legacyRanking": organicRanking,
           "featureRanking": featureRanking,
-          "baseRanking": (featureRanking - organicRanking),
           "href": serp.organic_results[i].link,
           "url": serp.search_metadata.raw_html_file,
           "offset": offset
@@ -124,7 +146,7 @@ function computeRankings(serp, domain) {
     }
   }
 
-  // next step would be to count bottom ads
+  // next step would be to count bottom ads if it goes deeper than the first page
 
   if (typeof(serp.ads) == 'object') {
     for (i = 0; i < serp.ads.length; i++) {
@@ -134,7 +156,7 @@ function computeRankings(serp, domain) {
     }
   }
 
-  // after this, go to the next page and keep going until you find the
+  // after this, go to the next page and keep going until you find the ranking
 
 }
 // fetch resultsOffset async
@@ -142,7 +164,6 @@ async function getResultOffset(href, url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(url);
-    // await page.screenshot({path: 'serp.png'});
 
     const resultLink = await page.$('a[href="' + href + '"]');
     const rect = await page.evaluate((resultLink) => {
